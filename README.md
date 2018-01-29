@@ -6,7 +6,7 @@ Designed a chat-bot that allows users to have easy interaction and for fast retr
 
 Steps to be followed:
 
-Follow the instructions for installing 'Elasticsearch, Logstash, Kibana' stack and SOLR on Cloud Platforms like AWS, GCP and Microsoft Azure. The installaion commands and corresponding screenshots will walk you through the process. There are two datasets been used in the project. 
+Follow the instructions in the report as well as the presentation for installing 'Elasticsearch, Logstash, Kibana' stack and SOLR on Cloud Platforms like AWS, GCP and Microsoft Azure. The installaion commands and corresponding screenshots will walk you through the process. There are two datasets been used in the project. 
 
 https://dumps.wikimedia.org/other/cirrussearch/20180122/enwikiquote-20180122-cirrussearch-general.json.gz
 
